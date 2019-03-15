@@ -1,0 +1,21 @@
+Graphical User Interfaces Group 40 Contributions
+
+Billy Moughton - 170631215:
+	Weather API connection & Display.
+	HTML and JSX programming.
+
+
+Nium Patel - 170434362:
+	Transport/Location API connection & Display.
+	HTML and JSX programming.
+
+
+Alper Karaagac - 160613948:
+	Tested weather API.
+	HTML and CSS programming.
+
+Erick Fernando Tonato Paredes - 170182337:
+Testing Weather/Transport API. Html programming.
+
+Jonathan Liu Hong - 170229263:
+	Front-end design. Created all assets. HTML and CSS programming.
